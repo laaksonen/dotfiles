@@ -6,8 +6,10 @@
 
 - link:
     ~/.gitconfig: gitconfig
-    ~/.zprofile: zprofile
     ~/.nvm: nvm
+    ~/.p10k.zsh: p10k.zsh
+    ~/.zprofile: zprofile
+    ~/.zsh: zsh
     ~/.zshrc: zshrc
 
 - shell:
