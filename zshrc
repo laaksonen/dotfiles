@@ -18,3 +18,6 @@ source ~/.zsh/plugins/powerlevel10k/powerlevel10k.zsh-theme
 
 # Autojump
 [ -f /opt/homebrew/etc/profile.d/autojump.sh ] && . /opt/homebrew/etc/profile.d/autojump.sh
+
+# zsh-syntax-highlighting (Note: needs to be at the end of this file)
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
